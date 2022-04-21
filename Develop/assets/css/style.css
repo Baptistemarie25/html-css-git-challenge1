@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Change div element in header to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -58,6 +58,7 @@ a {
 .footer h2 {
     font-size: 20px;
 }
+/*FOOTER STYLE END*/
 
 p {
     font-size: 16px;
